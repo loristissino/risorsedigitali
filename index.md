@@ -246,7 +246,7 @@ MarkDown, anybody?
 
 ## Sorgente
 
-[Questo documento](index.md) (markdown/utf8), versione 1.1 - 20160406
+[Questo documento](https://github.com/loristissino/risorsedigitali)
 
 ## Strumenti
 
