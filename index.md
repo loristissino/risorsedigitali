@@ -246,7 +246,7 @@ MarkDown, anybody?
 
 ## Sorgente
 
-[Questo documento](https://github.com/loristissino/risorsedigitali)
+[Questo documento](https://raw.githubusercontent.com/loristissino/risorsedigitali/master/index.md)
 
 ## Strumenti
 
