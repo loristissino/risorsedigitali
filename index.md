@@ -46,6 +46,8 @@ Tecnologie dell'Apprendimento e della Conoscenza
 
 - applicazioni desktop
 - applicazioni web
+- applicazioni su singola pagina
+- plugin per CMS
 - app per dispositivi mobili
 - bot
 
@@ -71,7 +73,7 @@ da/verso formati standard
 - tablet
 - lavagne interattive
 - sistemi per fruizione di contenuti mm
-- microcontrollori (arduino, raspberry pi)
+- microcontrollori (Arduino, Raspberry PI, Espruino)
 - IoT
 - robot
 
@@ -151,12 +153,13 @@ da/verso formati standard
 - [Desire2Learn](http://www.d2l.com/)
 - [Schoology](https://www.schoology.com/)
 - [Canvas](https://www.canvaslms.com/)
+- _diverse_ piattaforme per libri digitali
 
 ## Problema
 
 Ci deve essere uniformità nelle soluzioni offerte dal\ consiglio\ di\ classe!
 
-# Strumenti utili
+# (Alcuni) strumenti utili
 
 ## Dropbox
 
@@ -182,6 +185,10 @@ Ci deve essere uniformità nelle soluzioni offerte dal\ consiglio\ di\ classe!
 ## Ricerche di contenuti CC
 
 [![ricerche contenuti cc](images/searchcc.png)](http://bit.ly/1UV8TJR)
+
+## Mappe geografiche
+
+[![osm](images/osm.png)](https://www.openstreetmap.org) [![osm](images/gmaps.png)](https://www.google.it/maps)
 
 ## Risorse utili
 

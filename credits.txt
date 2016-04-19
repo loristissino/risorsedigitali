@@ -9,3 +9,12 @@ https://www.flickr.com/photos/97481684@N08/9365641519
 
 login-570317_960_720.jpg
 https://pixabay.com/en/login-register-window-button-570317/ 
+
+osm.png
+© OpenStreetMap Contributors
+https://www.openstreetmap.org
+
+gmaps.png
+© Google
+https://www.google.it/maps
+
