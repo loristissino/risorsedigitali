@@ -135,7 +135,7 @@ da/verso formati standard
 - discussioni
 
 ## Edmodo.com
-
+  
 [edmodo.com](https://www.edmodo.com)  
 [Video: intervista a Lucia Bartolotti](https://www.youtube.com/watch?v=94TUDEF-mJs)
 
