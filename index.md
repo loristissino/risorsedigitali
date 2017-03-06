@@ -1,7 +1,7 @@
 % Nuove risorse digitali e\ didattica
-% Loris Tissino  
-![twitter](images/twitter.png) @loristissino ![telegram](images/telegram.png)
-% Aprile 2016
+% Loris Tissino
+  ![twitter](images/twitter.png) @loristissino ![telegram](images/telegram.png)
+% Marzo 2017
 
 
 
@@ -39,7 +39,6 @@ Tecnologie dell'Apprendimento e della Conoscenza
 - _Modification_: es. scrittura collaborativa
 - _Redefinition_: es. pubblicazione su blog, interazione con esterni, ecc.
 
-
 # Software / Hardware
 
 ## Software
@@ -47,7 +46,7 @@ Tecnologie dell'Apprendimento e della Conoscenza
 - applicazioni desktop
 - applicazioni web
 - applicazioni su singola pagina
-- plugin per CMS
+- plugin per [CMS](https://it.wikipedia.org/wiki/Content_management_system)
 - app per dispositivi mobili
 - bot
 
@@ -59,16 +58,21 @@ Tecnologie dell'Apprendimento e della Conoscenza
 
 - software libero (open source) / proprietario
 - costo del servizio
+- presenza di pubblicità
 - età minima utenti
 - multipiattaforma o meno
 - solo desktop o multidevice
 - possibilità di importazione / esportazione dati  
-da/verso formati standard
+da/verso formati standard (_lock-in?_)
+- possibilità di usare [API](https://it.wikipedia.org/wiki/Application_programming_interface)
 - uso online / offline
 
 ## Hardware
 
 - computer
+- server di rete
+- macchine virtuali
+- NAS
 - smartphone
 - tablet
 - lavagne interattive
@@ -92,7 +96,7 @@ da/verso formati standard
 - forum
 - test on line
 
-## Blended learning
+## _Blended Learning_
 
 - piattaforme digitali
 - strumenti tipici dell'e-learning
@@ -102,7 +106,19 @@ da/verso formati standard
 
 - lezioni online seguite a casa
 - esercitazioni a scuola
-- BYOD - Bring Your Own Device (non necessariamente)
+- BYOD - _Bring Your Own Device_ (non necessariamente)
+
+## _Project Based Learning_
+
+- contenuti standard + pensiero critico, _problem solving_, collaborazione, organizzazione
+- problema/domanda _sfidante_ (_non googlabile_)
+- necessità di investigazione
+- autenticità del problema
+- possibilità di più soluzioni corrette
+- riflessione
+- critica e revisione
+- pubblicazione di un prodotto
+- valutazione [su diversi aspetti](https://www.edutopia.org/stw-project-based-learning-best-practices-guide)
 
 # Produzione di contenuti
 
@@ -115,7 +131,7 @@ da/verso formati standard
 ## Da parte degli allievi
 
 - come valutare i lavori?
-- come distinguere abilità tecniche da competenze disciplinari?
+- come distinguere le abilità tecniche dalle competenze disciplinari?
 
 ## Pubblicazione
 
@@ -141,7 +157,7 @@ da/verso formati standard
 
 ## Google Apps for Education
 
-[google.com/edu](https://www.google.com/edu/)
+[edu.google.com](https://edu.google.com/)
 
 ## Moodle
 
@@ -153,7 +169,9 @@ da/verso formati standard
 - [Desire2Learn](http://www.d2l.com/)
 - [Schoology](https://www.schoology.com/)
 - [Canvas](https://www.canvaslms.com/)
+- [WeSchool](http://www.weschool.com)
 - _diverse_ piattaforme per libri digitali
+- registri elettronici
 
 ## Problema
 
@@ -161,17 +179,19 @@ Ci deve essere uniformità nelle soluzioni offerte dal\ consiglio\ di\ classe!
 
 # (Alcuni) strumenti utili
 
-## Dropbox
+## Depositi di file
 
-[dropbox.com](https://dropbox.com)
+[dropbox.com](https://dropbox.com)  
+[dropfile.to](https://dropfile.to/)
 
-## Kahoot
+## Quiz
 
-[kahoot.com](https://getkahoot.com/)
-
-## Quizlet
-
+[kahoot.com](https://getkahoot.com/)  
 [quizlet.com](https://quizlet.com)
+
+## Infografiche
+
+[Easel.ly](https://www.easel.ly)
 
 # Risorse on line
 
@@ -232,6 +252,7 @@ MarkDown, anybody?
 - [Prezi](https://prezi.com/)
 - [PowToon](https://www.powtoon.com)
 - [Impress.js](http://impress.github.io/impress.js)
+- [Reveal.js](http://lab.hakim.se/reveal-js/#/)
 
 # Raccolte
 

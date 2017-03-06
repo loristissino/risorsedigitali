@@ -1,5 +1,5 @@
 reveal.js
 index.html
-index.rtf
-domande.pdf
-
+*.rtf
+*.pdf
+*.zip
