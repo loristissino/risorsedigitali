@@ -1,6 +1,7 @@
 % Nuove risorse digitali e\ didattica
 % Loris Tissino
   ![twitter](images/twitter.png) @loristissino ![telegram](images/telegram.png)
+  _loris@tissino.it_
 % Marzo 2017
 
 
@@ -27,6 +28,7 @@ Tecnologie dell'Apprendimento e della Conoscenza
 - si costruisce un prodotto
 - si collabora
 - si rappresenta ciò che si è appreso
+- si viene gratificati
 
 -------------------
 
@@ -57,15 +59,16 @@ Tecnologie dell'Apprendimento e della Conoscenza
 ## Fattori da considerare
 
 - software libero (open source) / proprietario
-- costo del servizio
-- presenza di pubblicità
+- costo del servizio, modello di business (pubblicità?)
+- accessibilità, rappresentazioni multiple
+- _gamification_
 - età minima utenti
 - multipiattaforma o meno
 - solo desktop o multidevice
+- uso online / offline
 - possibilità di importazione / esportazione dati  
 da/verso formati standard (_lock-in?_)
 - possibilità di usare [API](https://it.wikipedia.org/wiki/Application_programming_interface)
-- uso online / offline
 
 ## Hardware
 
@@ -163,6 +166,10 @@ da/verso formati standard (_lock-in?_)
 
 [moodle.org](https://moodle.org/)
 
+## E-Twinning
+
+[etwinning.net](https://www.etwinning.net)
+
 ## Altre...
 
 - [BlackBoard](http://uki.blackboard.com/)
@@ -192,6 +199,10 @@ Ci deve essere uniformità nelle soluzioni offerte dal\ consiglio\ di\ classe!
 ## Infografiche
 
 [Easel.ly](https://www.easel.ly)
+
+## Web conference
+
+[Apache OpenMeetings](https://openmeetings.apache.org/demo.html)
 
 # Risorse on line
 
