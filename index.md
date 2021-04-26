@@ -2,7 +2,7 @@
 % Loris Tissino
   ![twitter](images/twitter.png) @loristissino ![telegram](images/telegram.png)
   _loris@tissino.it_
-% Marzo 2017
+% Aprile 2021
 
 
 
@@ -33,6 +33,10 @@ Tecnologie dell'Apprendimento e della Conoscenza
 -------------------
 
 [![digitale/digitalizzato](images/digitale-digitalizzato.png)](http://bit.ly/1RLtmdL)
+
+## Digitale vs Analogico
+
+![](images/tutto_johnson.jpg)
 
 ## SAMR
 
@@ -81,7 +85,7 @@ da/verso formati standard (_lock-in?_)
 - lavagne interattive
 - sistemi per fruizione di contenuti mm
 - microcontrollori (Arduino, Raspberry PI, Espruino)
-- IoT
+- strumenti IoT
 - robot
 
 # Modelli
@@ -123,6 +127,13 @@ da/verso formati standard (_lock-in?_)
 - pubblicazione di un prodotto
 - valutazione [su diversi aspetti](https://www.edutopia.org/stw-project-based-learning-best-practices-guide)
 
+## Valutazione di fonti e contenuti
+
+- contrasto di _fake news_ ([Unesco](https://en.unesco.org/fightfakenews))
+- individuare le teorie del complotto ([Unione Europea](https://ec.europa.eu/info/identifying-conspiracy-theories_it))
+- debunking ([Skeptical Science](https://skepticalscience.com/docs/DebunkingHandbook2020-Italian.pdf))
+- let's play! ([Bad News](https://www.getbadnews.com/#intro))
+
 # Produzione di contenuti
 
 ## Da parte del docente
@@ -158,7 +169,7 @@ da/verso formati standard (_lock-in?_)
 [edmodo.com](https://www.edmodo.com)  
 [Video: intervista a Lucia Bartolotti](https://www.youtube.com/watch?v=94TUDEF-mJs)
 
-## Google Apps for Education
+## Google Workspace for Education
 
 [edu.google.com](https://edu.google.com/)
 
@@ -188,13 +199,14 @@ Ci deve essere uniformità nelle soluzioni offerte dal\ consiglio\ di\ classe!
 
 ## Depositi di file
 
-[dropbox.com](https://dropbox.com)  
-[dropfile.to](https://dropfile.to/)
+[dropbox.com](https://dropbox.com)   
+[wetransfer.com](https://wetransfer.com/)
 
 ## Quiz
 
 [kahoot.com](https://getkahoot.com/)  
-[quizlet.com](https://quizlet.com)
+[quizlet.com](https://quizlet.com)  
+[socrative.com](https://socrative.com/)  
 
 ## Infografiche
 
@@ -202,12 +214,15 @@ Ci deve essere uniformità nelle soluzioni offerte dal\ consiglio\ di\ classe!
 
 ## Web conference
 
-[Apache OpenMeetings](https://openmeetings.apache.org/demo.html)
+[Apache OpenMeetings](https://openmeetings.apache.org/demo.html)  
+[Jitsi](https://meet.jit.si/)  
+[BBB](https://scuolalibera.continuity.space/)  
 
 # Risorse on line
 
 ## Risorse didattiche aperte
 
+- uno [sguardo d'insieme](https://www.mindomo.com/it/mindmap/contenuti-digitali-aperti-tra-licenze-inclusione-e-riuso-6a46a306c55c43f1a95e6b4e11acaea5)
 - licenze libere ([Creative Commons](http://www.aliprandi.org/manuale-cc/html/), GNU FDL)
 - apertura tecnica (codice sorgente)
 
@@ -220,6 +235,19 @@ Ci deve essere uniformità nelle soluzioni offerte dal\ consiglio\ di\ classe!
 ## Mappe geografiche
 
 [![osm](images/osm.png)](https://www.openstreetmap.org) [![osm](images/gmaps.png)](https://www.google.it/maps)
+
+## Mappe cognitive 
+
+- [Wiki2Map](https://wiki2map.org/)
+- [Mindomo](https://www.mindomo.com)
+
+## Rappresentazioni
+
+- [umap](https://umap.openstreetmap.fr/en/)
+- [datawrapper](https://www.datawrapper.de/)
+- [wikiMap](https://wiki-map.com/map/?locale=it&lat=45.8660&lng=13.7785)
+- [d3](https://d3js.org/)
+- [streamlit](https://streamlit.io/)
 
 ## Risorse utili
 
