@@ -5,6 +5,21 @@
 % Aprile 2021
 
 
+# DAD vs DDI
+
+## DAD
+
+Didattica a Distanza
+
+(uso esclusivo di piattaforme digitali)
+
+
+## DDI
+
+Didattica Digitale Integrata
+
+(integrazione tra didattica a distanza e in presenza)
+
 
 # TIC vs TAC
 
